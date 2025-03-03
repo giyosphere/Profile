@@ -32,5 +32,10 @@ Here are some of the projects I have worked on:
 4. [Responsive Navigation Sidebar](https://giyosphere.github.io/Responsive-Navigation-side-bar/)  
    A fully responsive sidebar navigation menu created with HTML, CSS, and JavaScript. It adapts to different screen sizes and provides an intuitive navigation experience.
 
+5. [Neumorphism Style](https://giyosphere.github.io/Neumorphism-Style/)  
+   A neumorphism-style design, showcasing soft, inset-like UI elements and a minimalistic aesthetic created using HTML and CSS.
+
+
+
 
 
