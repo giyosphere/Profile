@@ -16,11 +16,21 @@
 - **Databases**: `MongoDB`, `MySQL`, `PostgreSQL`
 - **Tools**: `Git`, `VS Code`, `Figma`
 
-Sample Works: 
-https://giyosphere.github.io/Creative-Studio/
-https://giyosphere.github.io/Glassmorphism-Login-page/
-https://giyosphere.github.io/To-do-list-using-javascript/
-https://giyosphere.github.io/Responsive-Navigation-side-bar/
-              
+## My Projects
+
+Here are some of the projects I have worked on:
+
+1. [Creative Studio](https://giyosphere.github.io/Creative-Studio/)  
+   A creative studio website built with HTML, CSS, and JavaScript. This project showcases modern web design principles and interactive elements.
+
+2. [Glassmorphism Login Page](https://giyosphere.github.io/Glassmorphism-Login-page/)  
+   A sleek login page featuring a glassmorphism design using CSS, offering a visually stunning and modern interface.
+
+3. [To-Do List Using JavaScript](https://giyosphere.github.io/To-do-list-using-javascript/)  
+   A to-do list web app built with JavaScript, allowing users to add, edit, and remove tasks. This app demonstrates dynamic content management.
+
+4. [Responsive Navigation Sidebar](https://giyosphere.github.io/Responsive-Navigation-side-bar/)  
+   A fully responsive sidebar navigation menu created with HTML, CSS, and JavaScript. It adapts to different screen sizes and provides an intuitive navigation experience.
+
 
 
