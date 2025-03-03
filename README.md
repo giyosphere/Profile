@@ -11,10 +11,10 @@
 - ⚡ Fun fact: I enjoy turning coffee into code — one bug fix at a time!
 
 ### 🛠️ Technologies & Tools:
-- **Languages**: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `PHP`
-- **Frameworks & Libraries**: `React`, `Vue.js`, `Node.js`, `Express`, `TailwindCSS`
+- **Languages**: `HTML`, `CSS`, `JavaScript`
+- **Frameworks & Libraries**: `React`, `Vue.js`, `TailwindCSS`, `Angular`
 - **Databases**: `MongoDB`, `MySQL`, `PostgreSQL`
-- **Tools**: `Git`, `Webpack`, `Babel`, `Docker`, `VS Code`, `Figma`
+- **Tools**: `Git`, `VS Code`, `Figma`
 
 Sample Works:  https://giyosphere.github.io/Creative-Studio/
 
