@@ -26,8 +26,13 @@ Here are some of the projects I have worked on:
 2. [To-Do List Using JavaScript](https://giyosphere.github.io/To-do-list-using-javascript/)  
    A to-do list web app built with JavaScript, allowing users to add, edit, and remove tasks. This app demonstrates dynamic content management.
 
-5. [Cryptocurrency Website](https://giyosphere.github.io/crypto_web/)  
+4. [Cryptocurrency Website](https://giyosphere.github.io/crypto_web/)  
  A crypto mining platform designed with a neumorphism-style UI, featuring soft, inset-like elements and a minimalist aesthetic, created using HTML, CSS, and JavaScript.
+
+5. [Web Folio](https://giyosphere.github.io/Web-folio/)  
+   A modern and responsive personal portfolio website designed to showcase projects, skills, and achievements. Built using HTML, CSS, and JavaScript, featuring smooth animations and an interactive user experience.
+
+
 
 
 
