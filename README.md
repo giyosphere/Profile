@@ -35,6 +35,10 @@ Here are some of the projects I have worked on:
 6. [Sass](https://giyosphere.github.io/Sass/)  
   Modern website built using HTML, Sass, and JavaScript, featuring clean design, reusable components, and mobile-first styling — perfect for showcasing front-end development skills.
 
+6. [React-vite](https://giyosphere.github.io/react-vite/)  
+   Web app using react and vite
+
+
 
 
 
