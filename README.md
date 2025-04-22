@@ -32,6 +32,8 @@ Here are some of the projects I have worked on:
 5. [Web Folio](https://giyosphere.github.io/Web-folio/)  
    A modern and responsive personal portfolio website designed to showcase projects, skills, and achievements. Built using HTML, CSS, and JavaScript, featuring smooth animations and an interactive user experience.
 
+6. [Sass](https://giyosphere.github.io/Sass/)  
+  Modern website built using HTML, Sass, and JavaScript, featuring clean design, reusable components, and mobile-first styling — perfect for showcasing front-end development skills.
 
 
 
